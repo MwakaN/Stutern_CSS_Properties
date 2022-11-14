@@ -1,0 +1,43 @@
+body{
+
+margin-left: 200px;
+margin-right: 200px;
+margin-top: 50px;
+}
+
+.first{
+color: green;
+font-size: 14px;
+border-radius: 15px;
+border-style:inset;
+border-color: green;
+padding-left: 30px;
+padding-right: 30px;
+margin-bottom: 40px;
+}
+
+h1{
+    font-size: 18px;
+}
+
+.second{
+    color: red;
+    font-size: 14px;
+    border-radius: 15px;
+    border-style: inset;
+    border-color: red;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-bottom: 40px;
+}
+
+.third{
+    color: blue;
+    font-size: 14px;
+    border-radius: 15px;
+    border-style:inset;
+    border-color: blue;
+    padding-left: 30px;
+    padding-right: 30px;
+    
+}
